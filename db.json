@@ -39,52 +39,6 @@
           ]
         }
       ]
-    },
-    {
-      "id": 3,
-      "title": "delectus aut autem",
-      "completed": false,
-      "persons": [
-        {
-          "userId": 1,
-          "name": "Miguel Restrepo",
-          "age": 26,
-          "skills": [
-            {
-              "description": "Angular 16"
-            },
-            {
-              "description": ".Net"
-            },
-            {
-              "description": "Umbraco"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": 4,
-      "title": "fix render",
-      "completed": false,
-      "persons": [
-        {
-          "userId": 1,
-          "name": "Juan Paz",
-          "age": 26,
-          "skills": [
-            {
-              "description": "Angular 16"
-            },
-            {
-              "description": ".Net"
-            },
-            {
-              "description": "Umbraco"
-            }
-          ]
-        }
-      ]
     }
   ]
 }
